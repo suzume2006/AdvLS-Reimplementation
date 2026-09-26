@@ -1,0 +1,154 @@
+[
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n04461696\\ILSVRC2012_val_00016835.JPEG",
+    "true_label_name": "tow truck",
+    "source_attack_success": true,
+    "num_queries": 1,
+    "seconds": 0.07,
+    "transfer": {
+      "vgg19": true,
+      "mobilenet": true,
+      "densenet": false
+    }
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n01614925\\ILSVRC2012_val_00044921.JPEG",
+    "true_label_name": "bald eagle",
+    "source_attack_success": true,
+    "num_queries": 1,
+    "seconds": 0.06,
+    "transfer": {
+      "vgg19": true,
+      "mobilenet": true,
+      "densenet": false
+    }
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02483362\\ILSVRC2012_val_00003712.JPEG",
+    "true_label_name": "gibbon",
+    "source_attack_success": false,
+    "num_queries": 3000,
+    "seconds": 207.05,
+    "transfer": {}
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02481823\\ILSVRC2012_val_00007639.JPEG",
+    "true_label_name": "chimpanzee",
+    "source_attack_success": false,
+    "num_queries": 3000,
+    "seconds": 223.53,
+    "transfer": {}
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n01768244\\ILSVRC2012_val_00015154.JPEG",
+    "true_label_name": "trilobite",
+    "source_attack_success": true,
+    "num_queries": 2066,
+    "seconds": 156.9,
+    "transfer": {
+      "vgg19": true,
+      "mobilenet": false,
+      "densenet": true
+    }
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02415577\\ILSVRC2012_val_00044438.JPEG",
+    "true_label_name": "bighorn",
+    "source_attack_success": true,
+    "num_queries": 2,
+    "seconds": 0.18,
+    "transfer": {
+      "vgg19": true,
+      "mobilenet": true,
+      "densenet": true
+    }
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n01748264\\ILSVRC2012_val_00030303.JPEG",
+    "true_label_name": "Indian cobra",
+    "source_attack_success": true,
+    "num_queries": 52,
+    "seconds": 3.97,
+    "transfer": {
+      "vgg19": true,
+      "mobilenet": true,
+      "densenet": true
+    }
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03992509\\ILSVRC2012_val_00026538.JPEG",
+    "true_label_name": "potter's wheel",
+    "source_attack_success": false,
+    "num_queries": 3000,
+    "seconds": 237.31,
+    "transfer": {}
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03345487\\ILSVRC2012_val_00003016.JPEG",
+    "true_label_name": "fire engine",
+    "source_attack_success": false,
+    "num_queries": 3000,
+    "seconds": 231.2,
+    "transfer": {}
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02823428\\ILSVRC2012_val_00004371.JPEG",
+    "true_label_name": "beer bottle",
+    "source_attack_success": true,
+    "num_queries": 13,
+    "seconds": 1.02,
+    "transfer": {
+      "vgg19": true,
+      "mobilenet": false,
+      "densenet": false
+    }
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03630383\\ILSVRC2012_val_00009127.JPEG",
+    "true_label_name": "lab coat",
+    "source_attack_success": false,
+    "num_queries": 3000,
+    "seconds": 221.25,
+    "transfer": {}
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03666591\\ILSVRC2012_val_00032083.JPEG",
+    "true_label_name": "lighter",
+    "source_attack_success": false,
+    "num_queries": 3000,
+    "seconds": 233.39,
+    "transfer": {}
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02917067\\ILSVRC2012_val_00019277.JPEG",
+    "true_label_name": "bullet train",
+    "source_attack_success": false,
+    "num_queries": 3000,
+    "seconds": 235.13,
+    "transfer": {}
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n11879895\\ILSVRC2012_val_00043005.JPEG",
+    "true_label_name": "rapeseed",
+    "source_attack_success": true,
+    "num_queries": 258,
+    "seconds": 20.16,
+    "transfer": {
+      "vgg19": false,
+      "mobilenet": false,
+      "densenet": false
+    }
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02017213\\ILSVRC2012_val_00046080.JPEG",
+    "true_label_name": "European gallinule",
+    "source_attack_success": true,
+    "num_queries": 512,
+    "seconds": 44.9,
+    "transfer": {
+      "vgg19": false,
+      "mobilenet": true,
+      "densenet": true
+    }
+  }
+]

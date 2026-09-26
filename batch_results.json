@@ -1,0 +1,322 @@
+[
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n04461696\\ILSVRC2012_val_00016835.JPEG",
+    "true_label_name": "tow truck",
+    "color_mode": "random",
+    "success": true,
+    "num_queries": 1,
+    "seconds": 0.2
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n01614925\\ILSVRC2012_val_00044921.JPEG",
+    "true_label_name": "bald eagle",
+    "color_mode": "random",
+    "success": true,
+    "num_queries": 7,
+    "seconds": 1.32
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02483362\\ILSVRC2012_val_00003712.JPEG",
+    "true_label_name": "gibbon",
+    "color_mode": "random",
+    "success": false,
+    "num_queries": 1000,
+    "seconds": 179.01
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02481823\\ILSVRC2012_val_00007639.JPEG",
+    "true_label_name": "chimpanzee",
+    "color_mode": "random",
+    "success": false,
+    "num_queries": 1000,
+    "seconds": 196.2
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n01768244\\ILSVRC2012_val_00015154.JPEG",
+    "true_label_name": "trilobite",
+    "color_mode": "random",
+    "success": false,
+    "num_queries": 1000,
+    "seconds": 188.57
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02415577\\ILSVRC2012_val_00044438.JPEG",
+    "true_label_name": "bighorn",
+    "color_mode": "random",
+    "success": true,
+    "num_queries": 6,
+    "seconds": 1.33
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n01748264\\ILSVRC2012_val_00030303.JPEG",
+    "true_label_name": "Indian cobra",
+    "color_mode": "random",
+    "success": false,
+    "num_queries": 1000,
+    "seconds": 197.4
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03992509\\ILSVRC2012_val_00026538.JPEG",
+    "true_label_name": "potter's wheel",
+    "color_mode": "random",
+    "success": false,
+    "num_queries": 1000,
+    "seconds": 205.65
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03345487\\ILSVRC2012_val_00003016.JPEG",
+    "true_label_name": "fire engine",
+    "color_mode": "random",
+    "success": false,
+    "num_queries": 1000,
+    "seconds": 198.98
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02823428\\ILSVRC2012_val_00004371.JPEG",
+    "true_label_name": "beer bottle",
+    "color_mode": "random",
+    "success": true,
+    "num_queries": 238,
+    "seconds": 44.19
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n04461696\\ILSVRC2012_val_00016835.JPEG",
+    "true_label_name": "tow truck",
+    "color_mode": "blue",
+    "success": true,
+    "num_queries": 1,
+    "seconds": 0.17
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n01614925\\ILSVRC2012_val_00044921.JPEG",
+    "true_label_name": "bald eagle",
+    "color_mode": "blue",
+    "success": true,
+    "num_queries": 77,
+    "seconds": 12.47
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02483362\\ILSVRC2012_val_00003712.JPEG",
+    "true_label_name": "gibbon",
+    "color_mode": "blue",
+    "success": false,
+    "num_queries": 1000,
+    "seconds": 191.75
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02481823\\ILSVRC2012_val_00007639.JPEG",
+    "true_label_name": "chimpanzee",
+    "color_mode": "blue",
+    "success": false,
+    "num_queries": 1000,
+    "seconds": 194.7
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n01768244\\ILSVRC2012_val_00015154.JPEG",
+    "true_label_name": "trilobite",
+    "color_mode": "blue",
+    "success": false,
+    "num_queries": 1000,
+    "seconds": 181.67
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02415577\\ILSVRC2012_val_00044438.JPEG",
+    "true_label_name": "bighorn",
+    "color_mode": "blue",
+    "success": true,
+    "num_queries": 1,
+    "seconds": 0.16
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n01748264\\ILSVRC2012_val_00030303.JPEG",
+    "true_label_name": "Indian cobra",
+    "color_mode": "blue",
+    "success": false,
+    "num_queries": 1000,
+    "seconds": 200.52
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03992509\\ILSVRC2012_val_00026538.JPEG",
+    "true_label_name": "potter's wheel",
+    "color_mode": "blue",
+    "success": false,
+    "num_queries": 1000,
+    "seconds": 196.98
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03345487\\ILSVRC2012_val_00003016.JPEG",
+    "true_label_name": "fire engine",
+    "color_mode": "blue",
+    "success": false,
+    "num_queries": 1000,
+    "seconds": 64.29
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02823428\\ILSVRC2012_val_00004371.JPEG",
+    "true_label_name": "beer bottle",
+    "color_mode": "blue",
+    "success": true,
+    "num_queries": 10,
+    "seconds": 0.65
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n04461696\\ILSVRC2012_val_00016835.JPEG",
+    "true_label_name": "tow truck",
+    "color_mode": "red",
+    "success": true,
+    "num_queries": 25,
+    "seconds": 1.4
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n01614925\\ILSVRC2012_val_00044921.JPEG",
+    "true_label_name": "bald eagle",
+    "color_mode": "red",
+    "success": true,
+    "num_queries": 1,
+    "seconds": 0.06
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02483362\\ILSVRC2012_val_00003712.JPEG",
+    "true_label_name": "gibbon",
+    "color_mode": "red",
+    "success": false,
+    "num_queries": 1000,
+    "seconds": 60.5
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02481823\\ILSVRC2012_val_00007639.JPEG",
+    "true_label_name": "chimpanzee",
+    "color_mode": "red",
+    "success": false,
+    "num_queries": 1000,
+    "seconds": 67.46
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n01768244\\ILSVRC2012_val_00015154.JPEG",
+    "true_label_name": "trilobite",
+    "color_mode": "red",
+    "success": false,
+    "num_queries": 1000,
+    "seconds": 70.61
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02415577\\ILSVRC2012_val_00044438.JPEG",
+    "true_label_name": "bighorn",
+    "color_mode": "red",
+    "success": true,
+    "num_queries": 2,
+    "seconds": 0.16
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n01748264\\ILSVRC2012_val_00030303.JPEG",
+    "true_label_name": "Indian cobra",
+    "color_mode": "red",
+    "success": false,
+    "num_queries": 1000,
+    "seconds": 71.71
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03992509\\ILSVRC2012_val_00026538.JPEG",
+    "true_label_name": "potter's wheel",
+    "color_mode": "red",
+    "success": false,
+    "num_queries": 1000,
+    "seconds": 75.4
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03345487\\ILSVRC2012_val_00003016.JPEG",
+    "true_label_name": "fire engine",
+    "color_mode": "red",
+    "success": false,
+    "num_queries": 1000,
+    "seconds": 74.12
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02823428\\ILSVRC2012_val_00004371.JPEG",
+    "true_label_name": "beer bottle",
+    "color_mode": "red",
+    "success": true,
+    "num_queries": 3,
+    "seconds": 0.22
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n04461696\\ILSVRC2012_val_00016835.JPEG",
+    "true_label_name": "tow truck",
+    "color_mode": "green",
+    "success": true,
+    "num_queries": 1,
+    "seconds": 0.07
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n01614925\\ILSVRC2012_val_00044921.JPEG",
+    "true_label_name": "bald eagle",
+    "color_mode": "green",
+    "success": true,
+    "num_queries": 15,
+    "seconds": 1.17
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02483362\\ILSVRC2012_val_00003712.JPEG",
+    "true_label_name": "gibbon",
+    "color_mode": "green",
+    "success": false,
+    "num_queries": 1000,
+    "seconds": 74.05
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02481823\\ILSVRC2012_val_00007639.JPEG",
+    "true_label_name": "chimpanzee",
+    "color_mode": "green",
+    "success": false,
+    "num_queries": 1000,
+    "seconds": 75.7
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n01768244\\ILSVRC2012_val_00015154.JPEG",
+    "true_label_name": "trilobite",
+    "color_mode": "green",
+    "success": false,
+    "num_queries": 1000,
+    "seconds": 77.42
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02415577\\ILSVRC2012_val_00044438.JPEG",
+    "true_label_name": "bighorn",
+    "color_mode": "green",
+    "success": true,
+    "num_queries": 2,
+    "seconds": 0.19
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n01748264\\ILSVRC2012_val_00030303.JPEG",
+    "true_label_name": "Indian cobra",
+    "color_mode": "green",
+    "success": false,
+    "num_queries": 1000,
+    "seconds": 77.36
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03992509\\ILSVRC2012_val_00026538.JPEG",
+    "true_label_name": "potter's wheel",
+    "color_mode": "green",
+    "success": false,
+    "num_queries": 1000,
+    "seconds": 80.33
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03345487\\ILSVRC2012_val_00003016.JPEG",
+    "true_label_name": "fire engine",
+    "color_mode": "green",
+    "success": false,
+    "num_queries": 1000,
+    "seconds": 78.05
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02823428\\ILSVRC2012_val_00004371.JPEG",
+    "true_label_name": "beer bottle",
+    "color_mode": "green",
+    "success": true,
+    "num_queries": 92,
+    "seconds": 7.36
+  }
+]

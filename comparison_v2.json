@@ -1,0 +1,962 @@
+[
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n04461696\\ILSVRC2012_val_00016835.JPEG",
+    "true_label_name": "tow truck",
+    "color_mode": "random",
+    "success": true,
+    "num_queries": 1,
+    "seconds": 0.36
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n01614925\\ILSVRC2012_val_00044921.JPEG",
+    "true_label_name": "bald eagle",
+    "color_mode": "random",
+    "success": true,
+    "num_queries": 14,
+    "seconds": 3.06
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02483362\\ILSVRC2012_val_00003712.JPEG",
+    "true_label_name": "gibbon",
+    "color_mode": "random",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 508.02
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02481823\\ILSVRC2012_val_00007639.JPEG",
+    "true_label_name": "chimpanzee",
+    "color_mode": "random",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 188.15
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n01768244\\ILSVRC2012_val_00015154.JPEG",
+    "true_label_name": "trilobite",
+    "color_mode": "random",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 192.49
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02415577\\ILSVRC2012_val_00044438.JPEG",
+    "true_label_name": "bighorn",
+    "color_mode": "random",
+    "success": true,
+    "num_queries": 1,
+    "seconds": 0.06
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n01748264\\ILSVRC2012_val_00030303.JPEG",
+    "true_label_name": "Indian cobra",
+    "color_mode": "random",
+    "success": true,
+    "num_queries": 2463,
+    "seconds": 156.22
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03992509\\ILSVRC2012_val_00026538.JPEG",
+    "true_label_name": "potter's wheel",
+    "color_mode": "random",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 196.27
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03345487\\ILSVRC2012_val_00003016.JPEG",
+    "true_label_name": "fire engine",
+    "color_mode": "random",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 191.68
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02823428\\ILSVRC2012_val_00004371.JPEG",
+    "true_label_name": "beer bottle",
+    "color_mode": "random",
+    "success": true,
+    "num_queries": 9,
+    "seconds": 0.64
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03630383\\ILSVRC2012_val_00009127.JPEG",
+    "true_label_name": "lab coat",
+    "color_mode": "random",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 188.27
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03666591\\ILSVRC2012_val_00032083.JPEG",
+    "true_label_name": "lighter",
+    "color_mode": "random",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 194.95
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02917067\\ILSVRC2012_val_00019277.JPEG",
+    "true_label_name": "bullet train",
+    "color_mode": "random",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 196.46
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n11879895\\ILSVRC2012_val_00043005.JPEG",
+    "true_label_name": "rapeseed",
+    "color_mode": "random",
+    "success": true,
+    "num_queries": 1452,
+    "seconds": 97.03
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02017213\\ILSVRC2012_val_00046080.JPEG",
+    "true_label_name": "European gallinule",
+    "color_mode": "random",
+    "success": true,
+    "num_queries": 557,
+    "seconds": 40.2
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n01496331\\ILSVRC2012_val_00037260.JPEG",
+    "true_label_name": "electric ray",
+    "color_mode": "random",
+    "success": true,
+    "num_queries": 70,
+    "seconds": 31.94
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03095699\\ILSVRC2012_val_00010704.JPEG",
+    "true_label_name": "container ship",
+    "color_mode": "random",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 198.31
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02843684\\ILSVRC2012_val_00047023.JPEG",
+    "true_label_name": "birdhouse",
+    "color_mode": "random",
+    "success": true,
+    "num_queries": 307,
+    "seconds": 21.05
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02113799\\ILSVRC2012_val_00004278.JPEG",
+    "true_label_name": "standard poodle",
+    "color_mode": "random",
+    "success": true,
+    "num_queries": 364,
+    "seconds": 24.18
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02120079\\ILSVRC2012_val_00037343.JPEG",
+    "true_label_name": "Arctic fox",
+    "color_mode": "random",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 218.67
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n09288635\\ILSVRC2012_val_00043647.JPEG",
+    "true_label_name": "geyser",
+    "color_mode": "random",
+    "success": true,
+    "num_queries": 1727,
+    "seconds": 115.27
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02007558\\ILSVRC2012_val_00004730.JPEG",
+    "true_label_name": "flamingo",
+    "color_mode": "random",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 209.24
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02009229\\ILSVRC2012_val_00007043.JPEG",
+    "true_label_name": "little blue heron",
+    "color_mode": "random",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 226.54
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03873416\\ILSVRC2012_val_00029352.JPEG",
+    "true_label_name": "paddle",
+    "color_mode": "random",
+    "success": true,
+    "num_queries": 8,
+    "seconds": 0.5
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03529860\\ILSVRC2012_val_00007900.JPEG",
+    "true_label_name": "home theater",
+    "color_mode": "random",
+    "success": true,
+    "num_queries": 1045,
+    "seconds": 67.81
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02091134\\ILSVRC2012_val_00004823.JPEG",
+    "true_label_name": "whippet",
+    "color_mode": "random",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 207.86
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03394916\\ILSVRC2012_val_00048138.JPEG",
+    "true_label_name": "French horn",
+    "color_mode": "random",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 206.53
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n07613480\\ILSVRC2012_val_00009809.JPEG",
+    "true_label_name": "trifle",
+    "color_mode": "random",
+    "success": true,
+    "num_queries": 433,
+    "seconds": 29.26
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03924679\\ILSVRC2012_val_00038560.JPEG",
+    "true_label_name": "photocopier",
+    "color_mode": "random",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 246.31
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n04562935\\ILSVRC2012_val_00027928.JPEG",
+    "true_label_name": "water tower",
+    "color_mode": "random",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 215.14
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n04461696\\ILSVRC2012_val_00016835.JPEG",
+    "true_label_name": "tow truck",
+    "color_mode": "red",
+    "success": true,
+    "num_queries": 87,
+    "seconds": 6.05
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n01614925\\ILSVRC2012_val_00044921.JPEG",
+    "true_label_name": "bald eagle",
+    "color_mode": "red",
+    "success": true,
+    "num_queries": 2,
+    "seconds": 0.15
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02483362\\ILSVRC2012_val_00003712.JPEG",
+    "true_label_name": "gibbon",
+    "color_mode": "red",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 218.36
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02481823\\ILSVRC2012_val_00007639.JPEG",
+    "true_label_name": "chimpanzee",
+    "color_mode": "red",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 220.85
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n01768244\\ILSVRC2012_val_00015154.JPEG",
+    "true_label_name": "trilobite",
+    "color_mode": "red",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 221.95
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02415577\\ILSVRC2012_val_00044438.JPEG",
+    "true_label_name": "bighorn",
+    "color_mode": "red",
+    "success": true,
+    "num_queries": 1,
+    "seconds": 0.09
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n01748264\\ILSVRC2012_val_00030303.JPEG",
+    "true_label_name": "Indian cobra",
+    "color_mode": "red",
+    "success": true,
+    "num_queries": 1302,
+    "seconds": 94.73
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03992509\\ILSVRC2012_val_00026538.JPEG",
+    "true_label_name": "potter's wheel",
+    "color_mode": "red",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 204.89
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03345487\\ILSVRC2012_val_00003016.JPEG",
+    "true_label_name": "fire engine",
+    "color_mode": "red",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 196.81
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02823428\\ILSVRC2012_val_00004371.JPEG",
+    "true_label_name": "beer bottle",
+    "color_mode": "red",
+    "success": true,
+    "num_queries": 1,
+    "seconds": 0.07
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03630383\\ILSVRC2012_val_00009127.JPEG",
+    "true_label_name": "lab coat",
+    "color_mode": "red",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 186.09
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03666591\\ILSVRC2012_val_00032083.JPEG",
+    "true_label_name": "lighter",
+    "color_mode": "red",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 197.08
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02917067\\ILSVRC2012_val_00019277.JPEG",
+    "true_label_name": "bullet train",
+    "color_mode": "red",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 195.42
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n11879895\\ILSVRC2012_val_00043005.JPEG",
+    "true_label_name": "rapeseed",
+    "color_mode": "red",
+    "success": true,
+    "num_queries": 2,
+    "seconds": 0.13
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02017213\\ILSVRC2012_val_00046080.JPEG",
+    "true_label_name": "European gallinule",
+    "color_mode": "red",
+    "success": true,
+    "num_queries": 7,
+    "seconds": 0.5
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n01496331\\ILSVRC2012_val_00037260.JPEG",
+    "true_label_name": "electric ray",
+    "color_mode": "red",
+    "success": true,
+    "num_queries": 11,
+    "seconds": 5.13
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03095699\\ILSVRC2012_val_00010704.JPEG",
+    "true_label_name": "container ship",
+    "color_mode": "red",
+    "success": true,
+    "num_queries": 21,
+    "seconds": 1.28
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02843684\\ILSVRC2012_val_00047023.JPEG",
+    "true_label_name": "birdhouse",
+    "color_mode": "red",
+    "success": true,
+    "num_queries": 2,
+    "seconds": 0.13
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02113799\\ILSVRC2012_val_00004278.JPEG",
+    "true_label_name": "standard poodle",
+    "color_mode": "red",
+    "success": true,
+    "num_queries": 469,
+    "seconds": 33.22
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02120079\\ILSVRC2012_val_00037343.JPEG",
+    "true_label_name": "Arctic fox",
+    "color_mode": "red",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 216.06
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n09288635\\ILSVRC2012_val_00043647.JPEG",
+    "true_label_name": "geyser",
+    "color_mode": "red",
+    "success": true,
+    "num_queries": 1,
+    "seconds": 0.06
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02007558\\ILSVRC2012_val_00004730.JPEG",
+    "true_label_name": "flamingo",
+    "color_mode": "red",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 207.4
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02009229\\ILSVRC2012_val_00007043.JPEG",
+    "true_label_name": "little blue heron",
+    "color_mode": "red",
+    "success": true,
+    "num_queries": 14,
+    "seconds": 1.09
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03873416\\ILSVRC2012_val_00029352.JPEG",
+    "true_label_name": "paddle",
+    "color_mode": "red",
+    "success": true,
+    "num_queries": 816,
+    "seconds": 55.13
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03529860\\ILSVRC2012_val_00007900.JPEG",
+    "true_label_name": "home theater",
+    "color_mode": "red",
+    "success": true,
+    "num_queries": 414,
+    "seconds": 27.65
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02091134\\ILSVRC2012_val_00004823.JPEG",
+    "true_label_name": "whippet",
+    "color_mode": "red",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 209.16
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03394916\\ILSVRC2012_val_00048138.JPEG",
+    "true_label_name": "French horn",
+    "color_mode": "red",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 214.58
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n07613480\\ILSVRC2012_val_00009809.JPEG",
+    "true_label_name": "trifle",
+    "color_mode": "red",
+    "success": true,
+    "num_queries": 1259,
+    "seconds": 88.08
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03924679\\ILSVRC2012_val_00038560.JPEG",
+    "true_label_name": "photocopier",
+    "color_mode": "red",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 261.93
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n04562935\\ILSVRC2012_val_00027928.JPEG",
+    "true_label_name": "water tower",
+    "color_mode": "red",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 209.45
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n04461696\\ILSVRC2012_val_00016835.JPEG",
+    "true_label_name": "tow truck",
+    "color_mode": "green",
+    "success": true,
+    "num_queries": 1,
+    "seconds": 0.08
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n01614925\\ILSVRC2012_val_00044921.JPEG",
+    "true_label_name": "bald eagle",
+    "color_mode": "green",
+    "success": true,
+    "num_queries": 1,
+    "seconds": 0.08
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02483362\\ILSVRC2012_val_00003712.JPEG",
+    "true_label_name": "gibbon",
+    "color_mode": "green",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 193.61
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02481823\\ILSVRC2012_val_00007639.JPEG",
+    "true_label_name": "chimpanzee",
+    "color_mode": "green",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 196.49
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n01768244\\ILSVRC2012_val_00015154.JPEG",
+    "true_label_name": "trilobite",
+    "color_mode": "green",
+    "success": true,
+    "num_queries": 2593,
+    "seconds": 171.22
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02415577\\ILSVRC2012_val_00044438.JPEG",
+    "true_label_name": "bighorn",
+    "color_mode": "green",
+    "success": true,
+    "num_queries": 2,
+    "seconds": 0.14
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n01748264\\ILSVRC2012_val_00030303.JPEG",
+    "true_label_name": "Indian cobra",
+    "color_mode": "green",
+    "success": true,
+    "num_queries": 34,
+    "seconds": 2.14
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03992509\\ILSVRC2012_val_00026538.JPEG",
+    "true_label_name": "potter's wheel",
+    "color_mode": "green",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 206.67
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03345487\\ILSVRC2012_val_00003016.JPEG",
+    "true_label_name": "fire engine",
+    "color_mode": "green",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 196.93
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02823428\\ILSVRC2012_val_00004371.JPEG",
+    "true_label_name": "beer bottle",
+    "color_mode": "green",
+    "success": true,
+    "num_queries": 11,
+    "seconds": 0.75
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03630383\\ILSVRC2012_val_00009127.JPEG",
+    "true_label_name": "lab coat",
+    "color_mode": "green",
+    "success": true,
+    "num_queries": 2115,
+    "seconds": 129.92
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03666591\\ILSVRC2012_val_00032083.JPEG",
+    "true_label_name": "lighter",
+    "color_mode": "green",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 195.08
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02917067\\ILSVRC2012_val_00019277.JPEG",
+    "true_label_name": "bullet train",
+    "color_mode": "green",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 197.9
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n11879895\\ILSVRC2012_val_00043005.JPEG",
+    "true_label_name": "rapeseed",
+    "color_mode": "green",
+    "success": true,
+    "num_queries": 147,
+    "seconds": 9.35
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02017213\\ILSVRC2012_val_00046080.JPEG",
+    "true_label_name": "European gallinule",
+    "color_mode": "green",
+    "success": true,
+    "num_queries": 695,
+    "seconds": 51.41
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n01496331\\ILSVRC2012_val_00037260.JPEG",
+    "true_label_name": "electric ray",
+    "color_mode": "green",
+    "success": true,
+    "num_queries": 7,
+    "seconds": 3.29
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03095699\\ILSVRC2012_val_00010704.JPEG",
+    "true_label_name": "container ship",
+    "color_mode": "green",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 198.11
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02843684\\ILSVRC2012_val_00047023.JPEG",
+    "true_label_name": "birdhouse",
+    "color_mode": "green",
+    "success": true,
+    "num_queries": 17,
+    "seconds": 1.18
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02113799\\ILSVRC2012_val_00004278.JPEG",
+    "true_label_name": "standard poodle",
+    "color_mode": "green",
+    "success": true,
+    "num_queries": 209,
+    "seconds": 14.14
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02120079\\ILSVRC2012_val_00037343.JPEG",
+    "true_label_name": "Arctic fox",
+    "color_mode": "green",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 218.64
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n09288635\\ILSVRC2012_val_00043647.JPEG",
+    "true_label_name": "geyser",
+    "color_mode": "green",
+    "success": true,
+    "num_queries": 154,
+    "seconds": 10.42
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02007558\\ILSVRC2012_val_00004730.JPEG",
+    "true_label_name": "flamingo",
+    "color_mode": "green",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 205.02
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02009229\\ILSVRC2012_val_00007043.JPEG",
+    "true_label_name": "little blue heron",
+    "color_mode": "green",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 224.2
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03873416\\ILSVRC2012_val_00029352.JPEG",
+    "true_label_name": "paddle",
+    "color_mode": "green",
+    "success": true,
+    "num_queries": 272,
+    "seconds": 18.92
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03529860\\ILSVRC2012_val_00007900.JPEG",
+    "true_label_name": "home theater",
+    "color_mode": "green",
+    "success": true,
+    "num_queries": 1,
+    "seconds": 0.07
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02091134\\ILSVRC2012_val_00004823.JPEG",
+    "true_label_name": "whippet",
+    "color_mode": "green",
+    "success": true,
+    "num_queries": 285,
+    "seconds": 20.41
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03394916\\ILSVRC2012_val_00048138.JPEG",
+    "true_label_name": "French horn",
+    "color_mode": "green",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 202.57
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n07613480\\ILSVRC2012_val_00009809.JPEG",
+    "true_label_name": "trifle",
+    "color_mode": "green",
+    "success": true,
+    "num_queries": 6,
+    "seconds": 0.44
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03924679\\ILSVRC2012_val_00038560.JPEG",
+    "true_label_name": "photocopier",
+    "color_mode": "green",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 249.55
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n04562935\\ILSVRC2012_val_00027928.JPEG",
+    "true_label_name": "water tower",
+    "color_mode": "green",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 202.9
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n04461696\\ILSVRC2012_val_00016835.JPEG",
+    "true_label_name": "tow truck",
+    "color_mode": "blue",
+    "success": true,
+    "num_queries": 1,
+    "seconds": 0.07
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n01614925\\ILSVRC2012_val_00044921.JPEG",
+    "true_label_name": "bald eagle",
+    "color_mode": "blue",
+    "success": true,
+    "num_queries": 45,
+    "seconds": 3.25
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02483362\\ILSVRC2012_val_00003712.JPEG",
+    "true_label_name": "gibbon",
+    "color_mode": "blue",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 194.01
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02481823\\ILSVRC2012_val_00007639.JPEG",
+    "true_label_name": "chimpanzee",
+    "color_mode": "blue",
+    "success": true,
+    "num_queries": 872,
+    "seconds": 56.31
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n01768244\\ILSVRC2012_val_00015154.JPEG",
+    "true_label_name": "trilobite",
+    "color_mode": "blue",
+    "success": true,
+    "num_queries": 295,
+    "seconds": 19.67
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02415577\\ILSVRC2012_val_00044438.JPEG",
+    "true_label_name": "bighorn",
+    "color_mode": "blue",
+    "success": true,
+    "num_queries": 1,
+    "seconds": 0.08
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n01748264\\ILSVRC2012_val_00030303.JPEG",
+    "true_label_name": "Indian cobra",
+    "color_mode": "blue",
+    "success": true,
+    "num_queries": 288,
+    "seconds": 18.66
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03992509\\ILSVRC2012_val_00026538.JPEG",
+    "true_label_name": "potter's wheel",
+    "color_mode": "blue",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 203.36
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03345487\\ILSVRC2012_val_00003016.JPEG",
+    "true_label_name": "fire engine",
+    "color_mode": "blue",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 198.03
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02823428\\ILSVRC2012_val_00004371.JPEG",
+    "true_label_name": "beer bottle",
+    "color_mode": "blue",
+    "success": true,
+    "num_queries": 7,
+    "seconds": 0.47
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03630383\\ILSVRC2012_val_00009127.JPEG",
+    "true_label_name": "lab coat",
+    "color_mode": "blue",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 183.96
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03666591\\ILSVRC2012_val_00032083.JPEG",
+    "true_label_name": "lighter",
+    "color_mode": "blue",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 196.2
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02917067\\ILSVRC2012_val_00019277.JPEG",
+    "true_label_name": "bullet train",
+    "color_mode": "blue",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 197.77
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n11879895\\ILSVRC2012_val_00043005.JPEG",
+    "true_label_name": "rapeseed",
+    "color_mode": "blue",
+    "success": true,
+    "num_queries": 353,
+    "seconds": 22.43
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02017213\\ILSVRC2012_val_00046080.JPEG",
+    "true_label_name": "European gallinule",
+    "color_mode": "blue",
+    "success": true,
+    "num_queries": 456,
+    "seconds": 34.43
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n01496331\\ILSVRC2012_val_00037260.JPEG",
+    "true_label_name": "electric ray",
+    "color_mode": "blue",
+    "success": true,
+    "num_queries": 21,
+    "seconds": 9.33
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03095699\\ILSVRC2012_val_00010704.JPEG",
+    "true_label_name": "container ship",
+    "color_mode": "blue",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 198.24
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02843684\\ILSVRC2012_val_00047023.JPEG",
+    "true_label_name": "birdhouse",
+    "color_mode": "blue",
+    "success": true,
+    "num_queries": 4,
+    "seconds": 0.27
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02113799\\ILSVRC2012_val_00004278.JPEG",
+    "true_label_name": "standard poodle",
+    "color_mode": "blue",
+    "success": true,
+    "num_queries": 152,
+    "seconds": 9.87
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02120079\\ILSVRC2012_val_00037343.JPEG",
+    "true_label_name": "Arctic fox",
+    "color_mode": "blue",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 213.74
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n09288635\\ILSVRC2012_val_00043647.JPEG",
+    "true_label_name": "geyser",
+    "color_mode": "blue",
+    "success": true,
+    "num_queries": 227,
+    "seconds": 14.78
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02007558\\ILSVRC2012_val_00004730.JPEG",
+    "true_label_name": "flamingo",
+    "color_mode": "blue",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 204.7
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02009229\\ILSVRC2012_val_00007043.JPEG",
+    "true_label_name": "little blue heron",
+    "color_mode": "blue",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 225.68
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03873416\\ILSVRC2012_val_00029352.JPEG",
+    "true_label_name": "paddle",
+    "color_mode": "blue",
+    "success": true,
+    "num_queries": 989,
+    "seconds": 66.63
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03529860\\ILSVRC2012_val_00007900.JPEG",
+    "true_label_name": "home theater",
+    "color_mode": "blue",
+    "success": true,
+    "num_queries": 218,
+    "seconds": 14.23
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02091134\\ILSVRC2012_val_00004823.JPEG",
+    "true_label_name": "whippet",
+    "color_mode": "blue",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 202.89
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03394916\\ILSVRC2012_val_00048138.JPEG",
+    "true_label_name": "French horn",
+    "color_mode": "blue",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 202.44
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n07613480\\ILSVRC2012_val_00009809.JPEG",
+    "true_label_name": "trifle",
+    "color_mode": "blue",
+    "success": true,
+    "num_queries": 15,
+    "seconds": 1.0
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n03924679\\ILSVRC2012_val_00038560.JPEG",
+    "true_label_name": "photocopier",
+    "color_mode": "blue",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 246.57
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n04562935\\ILSVRC2012_val_00027928.JPEG",
+    "true_label_name": "water tower",
+    "color_mode": "blue",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 197.46
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n04461696\\ILSVRC2012_val_00016835.JPEG",
+    "true_label_name": "tow truck",
+    "color_mode": "random",
+    "success": true,
+    "num_queries": 5,
+    "seconds": 0.28
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n01614925\\ILSVRC2012_val_00044921.JPEG",
+    "true_label_name": "bald eagle",
+    "color_mode": "random",
+    "success": true,
+    "num_queries": 21,
+    "seconds": 1.16
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02483362\\ILSVRC2012_val_00003712.JPEG",
+    "true_label_name": "gibbon",
+    "color_mode": "random",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 178.85
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n02481823\\ILSVRC2012_val_00007639.JPEG",
+    "true_label_name": "chimpanzee",
+    "color_mode": "random",
+    "success": false,
+    "num_queries": 3000,
+    "seconds": 200.82
+  },
+  {
+    "path": "C:\\Users\\Brutikaa\\imagenet-mini\\val\\n01768244\\ILSVRC2012_val_00015154.JPEG",
+    "true_label_name": "trilobite",
+    "color_mode": "random",
+    "success": true,
+    "num_queries": 292,
+    "seconds": 20.0
+  }
+]
